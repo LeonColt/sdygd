@@ -1,0 +1,19 @@
+generic:
+  appName: Storage Manager
+  errorOccurred: Terjadi kesalahan.
+  pleaseWait: Mohon menunggu.
+  errorInvalidSignIn: Email atau kata sandi tidak tepat.
+  setting: Pengaturan.
+  before: Sebelum
+  after: Sesudah
+  change: Perubahan
+  yes: Yes
+  no: No
+  from: Dari
+  to: Ke
+  logout: Logout
+  noData: Data tidak ada.
+  cancel: Batalkan
+  chooseDate: Pilih Tanggal
+  sureAsk: Anda yakin?
+  cannotUndo: Aksi ini tidak dapat dibatalkan.

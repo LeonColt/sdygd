@@ -1,0 +1,19 @@
+generic:
+  appName: Storage Manager
+  errorOccurred: An error occurred.
+  pleaseWait: Please Wait.
+  errorInvalidSignIn: Invalid email or password.
+  setting: Setting
+  before: Before
+  after: After
+  change: change
+  yes: Yes
+  no: No
+  from: From
+  to: To
+  logout: Logout
+  noData: No Data.
+  cancel: Cancel
+  chooseDate: Choose Date
+  sureAsk: Are you sure?
+  cannotUndo: This action cannot be undo.
